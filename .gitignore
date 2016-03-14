@@ -16,3 +16,4 @@ _ReSharper.*
 /nuget/lib/net40/EmbeddedResourceVirtualPathProvider.dll
 /nuget/lib/net40/EmbeddedResourceVirtualPathProvider.pdb
 .vs
+packages
