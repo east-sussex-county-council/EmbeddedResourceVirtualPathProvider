@@ -49,7 +49,3 @@ Cheers, Harry
 @mcintyre321
 
 MIT Licenced
-
-## NuGet package ##
-
-The NuGet package is built using the [NuBuild](https://github.com/bspell1/NuBuild) extension for Visual Studio.
